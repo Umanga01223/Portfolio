@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-color: aqua;
+  background-image: url("https://i.pinimg.com/control2/736x/44/8a/f2/448af2f9184e61031394c4756f5e820d.jpg");
+  width: 100%;
+  height: 140vh;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+.card {
+  width: 100%;
+  border: 2px;
+  height: 30%;
+  display: flex;
+  justify-content: end;
+}
+.contact {
+  width: 90px;
+  height: 30px;
+  border-radius: 9px;
+  margin-top: 10px;
+  margin-right: 10px;
+  color: crimson;
+  background-color: gold;
+}
+.pp {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  margin-right: 40%;
+}
+.Profile {
+  width: 200px;
+  height: 200px;
+
+  border-radius: 50%;
+}
+.pictures {
+  width: 350px;
+  height: 250px;
+  margin-left: 60px;
+  border: 2px solid gray;
+  border-radius: 11px;
+}
+.project {
+  border: 2px;
+  margin: 20px;
+  margin-bottom: 30px;
+  padding-top: 4px;
+}
+.skill {
+  width: 50%;
+  height: 100px;
+}
+.list {
+  margin-left: 70px;
+  font-size: larger;
+}
